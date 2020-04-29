@@ -18,7 +18,7 @@
     padding: 5px;
 }
 body{
-    background-image: linear-gradient(to left,blue,red);
+    background-image: linear-gradient(to right,blue,red);
     background-attachment: fixed; 
 }
 .main{
